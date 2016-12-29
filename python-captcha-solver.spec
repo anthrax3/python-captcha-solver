@@ -8,7 +8,7 @@
 Summary:	Univeral API to different captcha solving services
 Name:		python-%{module}
 Version:	0.0.3
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://pypi.python.org/packages/source/c/captcha-solver/captcha-solver-%{version}.tar.gz
